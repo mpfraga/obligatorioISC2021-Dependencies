@@ -1,6 +1,0 @@
-[client]
-host     = ENDPOINT
-user     = USER
-password = PASSWORD
-socket   = /var/run/mysqld/mysqld.sock
-#database = mysql
